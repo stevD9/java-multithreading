@@ -1,0 +1,9 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ßÖ½8ãÉŠˆ‹.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.( µõÉüÿÿÿÿ8À‹ˆ‹.
+psquid:S1192"TDefine a constant instead of duplicating this literal "We are in thread : " 3 times.(º•‡8Â’ˆ‹.
+Jsquid:S1602",Remove useless curly braces around statement(®Ì»ê8Â’ˆ‹.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(º•‡8Â’ˆ‹.
